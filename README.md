@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shoggato
-- 👀 I’m interested in machine learning and programming useful apps for automation
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in machine learning and programming useful apps for automation with Python
+- 🌱 I’m currently learning JavaScript and Rust
 - 💞️ I’m looking to collaborate on web developer projects
 - 📫 How to reach me eeels1986@gmail.com
 
