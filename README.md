@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and programming useful apps for automation with Python
 - 🌱 I’m currently learning JavaScript and Rust
 - 💞️ I’m looking to collaborate on web developer projects
-- 📫 How to reach me eeels1986@gmail.com
+- 📫 How to reach me ErikaWalker@proton.me
 
 <!---
 Shoggato/Shoggato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
