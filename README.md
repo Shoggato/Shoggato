@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shoggato
 - 👀 I’m interested in machine learning and programming useful apps for automation with Python
-- 🌱 I’m currently learning JavaScript and Rust
-- 💞️ I’m looking to collaborate on web developer projects
-- 📫 How to reach me ewalkerls1986@tutamail.com
+- 🌱 Stuck with Python and Fortran :3
+- 💞️ leave me alone ;)
+- 📫 How to reach me, if you know ;3 you know
 
 <!---
 Shoggato/Shoggato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
